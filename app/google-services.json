@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "10229738332",
+    "firebase_url": "https://twitterloginapp-f962b.firebaseio.com",
+    "project_id": "twitterloginapp-f962b",
+    "storage_bucket": "twitterloginapp-f962b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10229738332:android:b20cfc533a510610",
+        "android_client_info": {
+          "package_name": "app.compassites.com.twitterloginpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10229738332-re7bsle3r92gg2dcnvho1bm0jll8lbns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADvZh2CWVIdRI3X9EeZFnO9tXPdi8iXhY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
